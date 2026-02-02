@@ -68,3 +68,11 @@ Open the URL in a web browser to view the application.
 Note
 ---
 This project may require compatible versions of NumPy and Scikit learn, as the machine learning model was trained using specific library versions.
+
+## Key Learnings
+This project helped me understand:
+- Data preprocessing and feature scaling
+- Training and using machine learning models
+- Integrating ML models with Flask
+- Building and deploying a simple web application
+
