@@ -16,23 +16,23 @@ This project helps by taking soil and environmental inputs from the user, proces
 
 Technologies Used
 -----
-Python
-Flask
-NumPy
+Python,
+Flask,
+NumPy,
 Pandas
-Scikit learn
+Scikit learn,
 HTML and CSS
 
 Input Details
 -----
 The following values are taken as input from the user.
 
-Nitrogen (N)
-Phosphorus (P)
-Potassium (K)
-Temperature
-Humidity
-pH value
+Nitrogen (N),
+Phosphorus (P),
+Potassium (K),
+Temperature,
+Humidity,
+pH value,
 Rainfall
 
 How the Project Works
