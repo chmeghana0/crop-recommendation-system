@@ -65,6 +65,11 @@ After the server starts, a local URL will appear in the terminal.
 
 Open the URL in a web browser to view the application.
 
+Output
+--
+After submitting the input values, the system displays the name of the most suitable crop for the given soil and weather conditions on the result page.
+The output is shown clearly on the web interface, allowing the user to understand the recommended crop easily.
+
 Note
 ---
 This project may require compatible versions of NumPy and Scikit learn, as the machine learning model was trained using specific library versions.
